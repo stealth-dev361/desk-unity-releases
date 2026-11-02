@@ -20,7 +20,7 @@ Run `DeskUnity.exe`. It installs and opens by itself, and updates itself when a 
 
 ## Account & plans
 
-Create a free account and see the plans at [meetdesk-phi.vercel.app](https://meetdesk-phi.vercel.app).
+Create a free account and see the plans at [deskunity.com](https://deskunity.com).
 
 ---
 
